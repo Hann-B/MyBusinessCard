@@ -1,0 +1,11 @@
+C:\Users\Hanna\Documents\Visual Studio 2017\Projects\MyBusinessCard\MyBusinessCard\bin\Debug\netcoreapp2.0\MyBusinessCard.deps.json
+C:\Users\Hanna\Documents\Visual Studio 2017\Projects\MyBusinessCard\MyBusinessCard\bin\Debug\netcoreapp2.0\MyBusinessCard.runtimeconfig.json
+C:\Users\Hanna\Documents\Visual Studio 2017\Projects\MyBusinessCard\MyBusinessCard\bin\Debug\netcoreapp2.0\MyBusinessCard.runtimeconfig.dev.json
+C:\Users\Hanna\Documents\Visual Studio 2017\Projects\MyBusinessCard\MyBusinessCard\bin\Debug\netcoreapp2.0\MyBusinessCard.dll
+C:\Users\Hanna\Documents\Visual Studio 2017\Projects\MyBusinessCard\MyBusinessCard\bin\Debug\netcoreapp2.0\MyBusinessCard.pdb
+C:\Users\Hanna\Documents\Visual Studio 2017\Projects\MyBusinessCard\MyBusinessCard\obj\Debug\netcoreapp2.0\MyBusinessCard.csprojResolveAssemblyReference.cache
+C:\Users\Hanna\Documents\Visual Studio 2017\Projects\MyBusinessCard\MyBusinessCard\obj\Debug\netcoreapp2.0\MyBusinessCard.csproj.CoreCompileInputs.cache
+C:\Users\Hanna\Documents\Visual Studio 2017\Projects\MyBusinessCard\MyBusinessCard\obj\Debug\netcoreapp2.0\MyBusinessCard.AssemblyInfoInputs.cache
+C:\Users\Hanna\Documents\Visual Studio 2017\Projects\MyBusinessCard\MyBusinessCard\obj\Debug\netcoreapp2.0\MyBusinessCard.AssemblyInfo.cs
+C:\Users\Hanna\Documents\Visual Studio 2017\Projects\MyBusinessCard\MyBusinessCard\obj\Debug\netcoreapp2.0\MyBusinessCard.dll
+C:\Users\Hanna\Documents\Visual Studio 2017\Projects\MyBusinessCard\MyBusinessCard\obj\Debug\netcoreapp2.0\MyBusinessCard.pdb
